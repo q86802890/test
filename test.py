@@ -1,3 +1,3 @@
 function a() {}
 
-function c() {}
+function b() {}
